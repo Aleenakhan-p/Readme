@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aleenakhan-p
+- 👋 Hi, I’m @Aleena👾🧑‍💻
 - 👀 I’m interested in 'FRONT END DEVELOPMENT'
 - 🌱 I’m currently learning 'C LANGUAGE'
 - ⚡ Fun fact: 'I am a student'
