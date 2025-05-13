@@ -1,11 +1,14 @@
-# 👋Hey techies!!  Let me give you a brief intro of myself.😊  
+# 👋Hey techies!!  
+# Let me give you a brief intro of myself.😊  
 ### My Self **Aleena Khan** 👩‍💻
  _Welcome to My GITHUB PROFILE._  
 ## I’m a 'FRONTEND DEVELOPER' & a 'COMPUTER ENGINEER'.  
 
  ## ⚡ MY PROJECTS:
- _As a Computer engineer I tend to work on software aswell as hardware concepts. The core concepts I have mastered are described later in the "Concepts Section", down below I have listed my projects with categories "software" & "hardware"._
- ### Software based:
+ _As a Computer engineer I tend to work on software aswell as hardware concepts. The core concepts I have mastered are described later in the "Concepts Section", down below I have listed my projects with categories "software" & "hardware"._  
+ 
+ ### Software based:  
+ 
  Dashboard website  
  Quiz Management System  
  Tic Tac Toe Game   
@@ -13,12 +16,14 @@
  Portfolio Website  
  Simple Calculator in C  
  Simple Calculator in JS
- ### Hardware based:
+ ### Hardware based:  
+ 
  4-Bit Binary Calculator
  Non-Contact AC Voltage Tester Circuit  
  Also Check out my projects in the "Repository Section".
   
  ### Concepts Mastered:  
+ 
  Object Oriented Programming  
  Data Structures and Algorithms  
  Computer Fundamentals  
@@ -33,7 +38,7 @@
  Differential Equations  
  
 
-## ⚡ MY TECH STACK:
+## ⚡ MY TECH STACK:  
  
 ⭐ C  
 ⭐ C++   
@@ -48,9 +53,12 @@
 ![C++](https://img.shields.io/badge/language-C++-blue?style=for-the-badge&logo=c++)  
 ![HTML5](https://img.shields.io/badge/language-HTML5-orange?style=for-the-badge&logo=html5)  
 ![CSS3](https://img.shields.io/badge/language-CSS3-blue?style=for-the-badge&logo=css3)  
-![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow?style=for-the-badge&logo=javascript) 
+![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow?style=for-the-badge&logo=javascript)  
+![Tailwind Css](https://img.shields.io/badge/language-TailwindcCss-green?style=for-the-badge&logo=tailwindCss)  
+![PHP](https://img.shields.io/badge/language-php-orange?style=for-the-badge&logo=php)  
+![MySQL](https://img.shields.io/badge/language-MySQL-blue?style=for-the-badge&logo=MySQL)
 
- ## Softwares I have worked with:  
+ ## Softwares I have worked with:    
    VS CODE  
    DEV C++  
    GITHUB (Duh!)  
@@ -64,9 +72,9 @@
    GEMINI
 
   ## Social Links:
-  Also Connect with me on the platforms.  
+  Also Connect with me on the platforms.    
   [The link to my linkedin profile]
- (www.linkedin.com/in/aleena-khan-9a4b18302)
+ (www.linkedin.com/in/aleena-khan-9a4b18302)  
  [The link to my Youtube profile]
 (https://youtube.com/@computerengineer-101?si=urmdmdiS_CL6NHn8)
   
