@@ -15,12 +15,14 @@
  Inventory Management System  
  Portfolio Website  
  Simple Calculator in C  
- Simple Calculator in JS
+ Simple Calculator in JS  
+ Simple Ranking System in C++  
+ 
  ### Hardware based:  
  
  4-Bit Binary Calculator
  Non-Contact AC Voltage Tester Circuit  
- Also Check out my projects in the "Repository Section".
+## Also Check out my projects in the _"Repository Section"_.
   
  ### Concepts Mastered:  
  
