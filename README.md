@@ -20,8 +20,9 @@
  
  ### Hardware based:  
  
- 4-Bit Binary Calculator
+ 4-Bit Binary Calculator  
  Non-Contact AC Voltage Tester Circuit  
+ 
 ## Also Check out my projects in the _"Repository Section"_.
   
  ### Concepts Mastered:  
