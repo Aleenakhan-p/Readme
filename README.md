@@ -1,6 +1,6 @@
 # 👋Hey techies!!  
 # Let me give you a brief intro of myself.😊  
-### My Self **Aleena Khan** 👩‍💻
+### My Self **Aleena Khan**👩‍💻
  _Welcome to My GITHUB PROFILE._  
 ## I’m a 'FRONTEND DEVELOPER' & a 'COMPUTER ENGINEER'.  
 
@@ -11,30 +11,37 @@
  
  Dashboard website  
  Quiz Management System  
- Tic Tac Toe Game   
- Inventory Management System  
+ Tic Tac Toe Game in JS
+ Inventory Management System IN JS  
  Portfolio Website  
  Simple Calculator in C  
  Simple Calculator in JS  
  Simple Ranking System in C++  
+ Registration & Login forms  
  
  ### Hardware based:  
  
  4-Bit Binary Calculator  
+ Ignifume ~ A Flame & Smoke Detector with Arduino UNO
  Non-Contact AC Voltage Tester Circuit  
+ Metal Detector
  
 ## Also Check out my projects in the _"Repository Section"_.
   
  ### Concepts Mastered:  
  
- Object Oriented Programming  
+ Object Oriented Programming (PHP, JS)  
  Data Structures and Algorithms  
  Computer Fundamentals  
- Computer Programming  
- Computer Architecture and Organization  
+ Operating Systems  (Windows, Linux)  
+ Computer Programming (C,C++)  
+ Computer Architecture and Organization 
+ Computer Communication & Networking  
  Applied Physics  
  Assembly Language  
+ Microprocessor & Interfacing  
  Signals and Systems  
+ Digital Signal Processing  
  Linear Algebra  
  Calculus  
  Discrete Structures  
@@ -63,16 +70,22 @@
 
  ## Softwares I have worked with:    
    VS CODE  
+   CURSOR  
    DEV C++  
    GITHUB (Duh!)  
    MATLAB  
    PROTEUS  
-   SUBLIME TEXT
+   CISCO  
+   SUBLIME TEXT  
+   Arduino IDE    
    ## AI Tools I am familiar with:  
    ChatGPT  
    PERPLEXITY  
    META AI  
-   GEMINI
+   GEMINI  
+   Lovable  
+   DeepSeek  
+   Groq  
 
   ## Social Links:
   Also Connect with me on the platforms.    
