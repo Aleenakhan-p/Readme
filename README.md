@@ -12,7 +12,7 @@
  Dashboard website  
  Quiz Management System  
  Tic Tac Toe Game in JS
- Inventory Management System IN JS  
+ Inventory Management System in JS  
  Portfolio Website  
  Simple Calculator in C  
  Simple Calculator in JS  
@@ -22,7 +22,7 @@
  ### Hardware based:  
  
  4-Bit Binary Calculator  
- Ignifume ~ A Flame & Smoke Detector with Arduino UNO
+ Ignifume ~ A Flame & Smoke Detector with Arduino UNO  
  Non-Contact AC Voltage Tester Circuit  
  Metal Detector
  
@@ -35,7 +35,7 @@
  Computer Fundamentals  
  Operating Systems  (Windows, Linux)  
  Computer Programming (C,C++)  
- Computer Architecture and Organization 
+ Computer Architecture and Organization  
  Computer Communication & Networking  
  Applied Physics  
  Assembly Language  
@@ -72,7 +72,7 @@
    VS CODE  
    CURSOR  
    DEV C++  
-   GITHUB (Duh!)  
+   GITHUB  
    MATLAB  
    PROTEUS  
    CISCO  
